@@ -1,0 +1,33 @@
+<resources>
+
+    <string name="Calories">Kalórie</string>
+    <string name="Distance">Vzdialenosť</string>
+    <string name="Duration">Trvanie</string>
+    <string name="Pace">Tempo</string>
+    <string name="Pause">Pauza</string>
+    <string name="Reset">Resetovať</string>
+    <string name="Resume">Pokračovať</string>
+    <string name="Start">Štart</string>
+    <string name="action_settings">Nastavenia</string>
+    <string name="app_name">Makač</string>
+    <string name="back">Späť</string>
+    <string name="hello_world">Ahoj</string>
+    <string name="share">Zdieľať</string>
+    <string name="stop">Zastaviť</string>
+    <string name="time">Čas</string>
+    <string name="title_activity_camera">Kamera</string>
+    <string name="title_activity_email">Email</string>
+    <string name="title_activity_intent_demo">Intentdemo</string>
+    <string name="title_activity_intent_demo1">Intentdemo1</string>
+    <string name="title_activity_menu">Menu</string>
+    <string name="title_activity_splash">Splash</string>
+    <string name="title_activity_sqlite">SQL databáza</string>
+    <string name="title_activity_starting_point">Štartovací bod</string>
+    <string name="title_activity_stepbystep">Krok</string>
+    <string name="title_activity_summary">Súhrnná aktivita</string>
+    <string name="title_activity_text_play">TextPlay</string>
+    <string name="title_activity_torch">Žiarovka</string>
+    <string name="turn_off">Vypnúť</string>
+    <string name="turn_on">Zapnúť</string>
+
+</resources>

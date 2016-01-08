@@ -1,0 +1,41 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="sk.tuke.smart.StartingPoint" >
+
+    <TextView
+        android:id="@+id/tvDisplay"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/bAdd"
+        android:layout_alignParentTop="true"
+        android:gravity="center"
+        android:text="Your total is 0"
+        android:textSize="40dp" />
+
+    <Button
+        android:id="@+id/bAdd"
+        android:layout_width="250dp"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/tvDisplay"
+        android:layout_centerHorizontal="true"
+        android:gravity="center"
+        android:text="Add one"
+        android:textSize="20sp" />
+
+    <Button
+        android:id="@+id/bSub"
+        android:layout_width="250dp"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/bAdd"
+        android:layout_below="@+id/bAdd"
+        android:gravity="center"
+        android:text="Subtract one"
+        android:textSize="20sp" />
+
+</RelativeLayout>
